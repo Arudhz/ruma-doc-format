@@ -1,7 +1,3 @@
-# ruma-doc-format
-A conceptual AI-native document format storing semantics and instruction instead of visual and layout
-
-
 # .ruma — A Semantic, AI-Native Document Format
 
 > *What if documents didn’t store how things look, but what they mean?*
@@ -17,6 +13,14 @@ A conceptual AI-native document format storing semantics and instruction instead
 - **Lightweight and efficient for storage, sharing, and searching**  
 
 It’s a rethinking of how documents are created, stored, and used.
+
+---
+
+<p align="center">
+  <img src="file-flow.jpeg" width="600" alt=".ruma Flow Diagram">
+  <br>
+  <em>Figure: High-level flow of a .ruma document from creation to rendering</em>
+</p>
 
 ---
 
