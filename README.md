@@ -16,12 +16,7 @@ It’s a rethinking of how documents are created, stored, and used.
 
 ---
 
-<p align="center">
-  <img src="./file-flow.jpeg" width="600" alt=".ruma Flow Diagram">
-  <br>
-  <em>Figure: High-level flow of a .ruma document from creation to rendering</em>
-</p>
-
+![.ruma Flow Diagram](file-flow.jpeg)
 ---
 
 ## Why this idea?
